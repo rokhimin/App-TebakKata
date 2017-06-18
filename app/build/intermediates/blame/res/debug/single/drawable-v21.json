@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/whd/Documents/ProjectAndroid/SimpleTebakKata/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/home/whd/.android/build-cache/e38951bd51ed825cc9a9ab366d1262ce395e7afc/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/home/whd/Documents/ProjectAndroid/SimpleTebakKata/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/home/whd/.android/build-cache/e38951bd51ed825cc9a9ab366d1262ce395e7afc/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/home/whd/Documents/ProjectAndroid/SimpleTebakKata/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/home/whd/.android/build-cache/e38951bd51ed825cc9a9ab366d1262ce395e7afc/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/whd/Documents/ProjectAndroid/SimpleTebakKata/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/whd/.android/build-cache/e38951bd51ed825cc9a9ab366d1262ce395e7afc/output/res/drawable-v21/abc_btn_colored_material.xml"
+    }
+]

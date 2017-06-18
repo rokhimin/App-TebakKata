@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Rokhimin wahid on 07/06/2017 -->
+<resources>
+
+    <string name="app_name">Simple Tebak Kata</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">About</string>
+    <string name="input_helper">Masukan Kata</string>
+    <string name="new_letter_button">Tebak</string>
+    <string name="score">*Score: </string>
+    <string name="reset">  Mulai Ulang  </string>
+    <string name="success">Selamat, anda berhasil menebak kata!</string>
+    <string name="choose">Pilih kategori kata :</string>
+    <string name="diduknow">*Did you know :</string>
+    <string name="q1">|Tebakan benar akan menambah score +10</string>
+    <string name="q2">|Tebakan salah akan mengurangi score -10</string>
+    <string name="q3">|Mulai ulang akan mereset nilai score dan mengacak kata</string>
+
+    <string-array name="Choice">
+        <item>Nama Hewan</item>
+    </string-array>
+
+</resources>

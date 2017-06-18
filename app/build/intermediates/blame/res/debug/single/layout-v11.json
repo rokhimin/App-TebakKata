@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/whd/Documents/ProjectAndroid/SimpleTebakKata/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow.xml",
+        "source": "/home/whd/.android/build-cache/e38951bd51ed825cc9a9ab366d1262ce395e7afc/output/res/layout-v11/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/home/whd/Documents/ProjectAndroid/SimpleTebakKata/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
+        "source": "/home/whd/.android/build-cache/e38951bd51ed825cc9a9ab366d1262ce395e7afc/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/home/whd/Documents/ProjectAndroid/SimpleTebakKata/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media.xml",
+        "source": "/home/whd/.android/build-cache/e38951bd51ed825cc9a9ab366d1262ce395e7afc/output/res/layout-v11/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/home/whd/Documents/ProjectAndroid/SimpleTebakKata/app/build/intermediates/res/merged/debug/layout-v11/notification_media_cancel_action.xml",
+        "source": "/home/whd/.android/build-cache/e38951bd51ed825cc9a9ab366d1262ce395e7afc/output/res/layout-v11/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/home/whd/Documents/ProjectAndroid/SimpleTebakKata/app/build/intermediates/res/merged/debug/layout-v11/notification_media_action.xml",
+        "source": "/home/whd/.android/build-cache/e38951bd51ed825cc9a9ab366d1262ce395e7afc/output/res/layout-v11/notification_media_action.xml"
+    },
+    {
+        "merged": "/home/whd/Documents/ProjectAndroid/SimpleTebakKata/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_custom.xml",
+        "source": "/home/whd/.android/build-cache/e38951bd51ed825cc9a9ab366d1262ce395e7afc/output/res/layout-v11/notification_template_big_media_custom.xml"
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/whd/Documents/ProjectAndroid/SimpleTebakKata/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/whd/.android/build-cache/e38951bd51ed825cc9a9ab366d1262ce395e7afc/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/home/whd/Documents/ProjectAndroid/SimpleTebakKata/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/whd/.android/build-cache/e38951bd51ed825cc9a9ab366d1262ce395e7afc/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    }
+]

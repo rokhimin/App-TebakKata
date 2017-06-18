@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/home/whd/Documents/ProjectAndroid/SimpleTebakKata/app/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/home/whd/.android/build-cache/e38951bd51ed825cc9a9ab366d1262ce395e7afc/output/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/home/whd/Documents/ProjectAndroid/SimpleTebakKata/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/home/whd/.android/build-cache/e38951bd51ed825cc9a9ab366d1262ce395e7afc/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/home/whd/Documents/ProjectAndroid/SimpleTebakKata/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/home/whd/.android/build-cache/e38951bd51ed825cc9a9ab366d1262ce395e7afc/output/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/home/whd/Documents/ProjectAndroid/SimpleTebakKata/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_thumb.xml",
+        "source": "/home/whd/.android/build-cache/e38951bd51ed825cc9a9ab366d1262ce395e7afc/output/res/color-v23/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/home/whd/Documents/ProjectAndroid/SimpleTebakKata/app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/home/whd/.android/build-cache/e38951bd51ed825cc9a9ab366d1262ce395e7afc/output/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/home/whd/Documents/ProjectAndroid/SimpleTebakKata/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/home/whd/.android/build-cache/e38951bd51ed825cc9a9ab366d1262ce395e7afc/output/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/home/whd/Documents/ProjectAndroid/SimpleTebakKata/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/home/whd/.android/build-cache/e38951bd51ed825cc9a9ab366d1262ce395e7afc/output/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/home/whd/Documents/ProjectAndroid/SimpleTebakKata/app/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/home/whd/.android/build-cache/e38951bd51ed825cc9a9ab366d1262ce395e7afc/output/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/home/whd/Documents/ProjectAndroid/SimpleTebakKata/app/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/home/whd/.android/build-cache/e38951bd51ed825cc9a9ab366d1262ce395e7afc/output/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/home/whd/Documents/ProjectAndroid/SimpleTebakKata/app/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "source": "/home/whd/.android/build-cache/e38951bd51ed825cc9a9ab366d1262ce395e7afc/output/res/color-v23/abc_tint_default.xml"
+    }
+]

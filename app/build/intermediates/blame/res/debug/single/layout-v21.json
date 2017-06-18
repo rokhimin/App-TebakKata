@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/whd/Documents/ProjectAndroid/SimpleTebakKata/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/whd/.android/build-cache/e38951bd51ed825cc9a9ab366d1262ce395e7afc/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/whd/Documents/ProjectAndroid/SimpleTebakKata/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/whd/.android/build-cache/e38951bd51ed825cc9a9ab366d1262ce395e7afc/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/whd/Documents/ProjectAndroid/SimpleTebakKata/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/whd/.android/build-cache/e38951bd51ed825cc9a9ab366d1262ce395e7afc/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/whd/Documents/ProjectAndroid/SimpleTebakKata/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/whd/.android/build-cache/e38951bd51ed825cc9a9ab366d1262ce395e7afc/output/res/layout-v21/notification_template_custom_big.xml"
+    }
+]
