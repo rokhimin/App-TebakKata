@@ -10,11 +10,7 @@ this simple app tebak kata, not spesial for app.
 
 ## Screenshot
 
-![MySchool-App-TKJ-smkn2sby](https://github.com/rokhimin/MySchool-App-TKJ-smkn2sby/blob/master/ss/whd1.jpg?raw=true)
-
-![MySchool-App-TKJ-smkn2sby](https://github.com/rokhimin/MySchool-App-TKJ-smkn2sby/blob/master/ss/whd2.jpg?raw=true)
-
-![MySchool-App-TKJ-smkn2sby](https://github.com/rokhimin/MySchool-App-TKJ-smkn2sby/blob/master/ss/whd3.jpg?raw=true)
+![MySchool-App-TKJ-smkn2sby](https://github.com/rokhimn/App-SimpleTebakKata/blob/master/ss/ss.jpg?raw=true)
 
 
 ## License
