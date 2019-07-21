@@ -1,5 +1,5 @@
-# App-SimpleTebakKata
-this simple app tebak kata, not spesial for app.
+# Simple Tebak Kata
+sejenis hangerman
 
 ## Features
 
