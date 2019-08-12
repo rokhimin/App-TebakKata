@@ -1,5 +1,5 @@
 # Simple Tebak Kata
-sejenis hangerman
+sejenis hangman
 
 ## Features
 
